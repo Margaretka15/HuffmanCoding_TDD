@@ -1,5 +1,6 @@
 # Kompresja plików z wykorzystaniem kodowania Huffmanna
 
+Program został napisany w ramach projektu na zajęcia z testowania oprogramowania, w którym głównym założeniem było zastosowanie TDD (Test Driven Developement). 
 Wejściem programu będzie plik, a jego wyjściem  będzie ten plik po skompresowaniu z wykorzystaniem kodowania Huffmanna. 
 
 ## Opis algorytmu kodowania Huffmanna
@@ -8,7 +9,7 @@ Kodowanie Huffmanna to jedna z najprostszych metod bezstratnej kompresji danych.
 
 Algorytm Huffmana: https://pl.wikipedia.org/wiki/Kodowanie_Huffmana
 
-## Planowana struktrua klas
+## Planowana struktura klas
 
 - główna klasa - otwiera plik, czyta z niego i przekazuje wszystkie informacje pozostalym klasom 
 - klasa tworząca słownik liczby wystąpień - tworzenie słownika liczby wystąpień 
