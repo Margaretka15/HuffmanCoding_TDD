@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanCoding", "HuffmanCoding.csproj", "{332F1ECD-FA54-4481-84EE-CFC32A18FAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuffmanCodingTests", "..\HuffmanCodingTests\HuffmanCodingTests.csproj", "{8684874C-37AA-47A2-B1B2-E553B9AA12DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{332F1ECD-FA54-4481-84EE-CFC32A18FAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332F1ECD-FA54-4481-84EE-CFC32A18FAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332F1ECD-FA54-4481-84EE-CFC32A18FAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332F1ECD-FA54-4481-84EE-CFC32A18FAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8684874C-37AA-47A2-B1B2-E553B9AA12DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8684874C-37AA-47A2-B1B2-E553B9AA12DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8684874C-37AA-47A2-B1B2-E553B9AA12DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8684874C-37AA-47A2-B1B2-E553B9AA12DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BC89C37-975C-4503-860A-84538D71BD5C}
+	EndGlobalSection
+EndGlobal
